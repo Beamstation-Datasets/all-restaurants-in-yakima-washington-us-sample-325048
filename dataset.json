@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Yakima in Pacific Northwest. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Yakima, Washington, US",
+  "export_job_id": "85d68601-fdf6-4b99-aef1-67aeaa4e902c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 325048,
+  "location_name": "Yakima",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-yakima-washington-us-sample-325048",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/325048/beamstation_325048_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 9.81,
+  "sample_records": 31,
+  "sample_sha256": "f5024d680bf7dff386f29076d24fae06e2e2aa760e2ada6ee541bcc55a054dd7",
+  "sample_size_bytes": 113034,
+  "total_records": 316,
+  "updated_at": "2026-04-09T14:51:42.600827+00:00"
+}
