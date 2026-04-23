@@ -9,9 +9,9 @@
 | Dataset ID | `325048` |
 | Location | Yakima |
 | Category | Restaurants |
-| Full dataset size | 285 records |
-| Free sample size | 28 records (9.82%) |
-| Last export | 2026-04-16T16:16:21.001168+00:00 |
+| Full dataset size | 283 records |
+| Free sample size | 28 records (9.89%) |
+| Last export | 2026-04-23T13:49:48.904611+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-yakima-washington-us-sample-325048/releases/download/sample-latest/beamstation_325048_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
