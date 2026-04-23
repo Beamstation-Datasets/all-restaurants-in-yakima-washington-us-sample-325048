@@ -1,12 +1,12 @@
 {
-  "export_job_id": "87549cc8-e824-45e2-a7ee-e171c148c90b",
+  "export_job_id": "20725bf7-1fff-4b90-a3d2-b0ce338d314b",
   "id_short": 325048,
-  "published_at": "2026-04-19T19:30:32Z",
+  "published_at": "2026-04-23T19:35:34Z",
   "repo_name": "all-restaurants-in-yakima-washington-us-sample-325048",
   "sample_asset_name": "beamstation_325048_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/325048/beamstation_325048_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_records": 28,
-  "sample_sha256": "3d85bc467cbafcac71a594298199b96a56a5e301fc97ae70316730e1cec8bea9",
-  "sample_size_bytes": 113329,
-  "total_records": 285
+  "sample_sha256": "7864c466b8cf98b51c70ca21322a2a04c4e5422cc299f2f2f10351ed58926088",
+  "sample_size_bytes": 98579,
+  "total_records": 283
 }
